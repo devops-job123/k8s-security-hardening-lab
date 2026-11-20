@@ -1,1 +1,0 @@
-Error from server: error when creating "kyverno/policies/test-root-pod.yaml": admission webhook "vpol.validate.kyverno.svc-fail" denied the request: Policy disallow-root-user failed: Running as root is not allowed. All containers must have runAsUser unset or > 0.
